@@ -29,3 +29,6 @@ This project is a game analysis assistant implemented in a Jupyter Notebook.
 
 ---
 
+
+**Project Demo**
+https://drive.google.com/file/d/1mMpJY6cX8KeUHRnVTO_UpuQK8-kLfIHK/view?usp=sharing

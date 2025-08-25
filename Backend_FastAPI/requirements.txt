@@ -1,0 +1,9 @@
+pandas
+numpy
+requests
+tqdm
+scikit-learn
+transformers
+torch
+faiss-cpu
+gdown
